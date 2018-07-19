@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-preadd-content",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "dependencies": {
     "npm": "^6.2.0"
   },
@@ -20,5 +20,8 @@
     "url": "https://github.com/coolKillers/less-plugin-preadd-content/issues"
   },
   "homepage": "https://github.com/coolKillers/less-plugin-preadd-content#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  }
 }
